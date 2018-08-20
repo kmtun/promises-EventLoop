@@ -1,0 +1,23 @@
+{
+  "name": "promises-EventLoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmtun/promises-EventLoop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmtun/promises-EventLoop/issues"
+  },
+  "homepage": "https://github.com/kmtun/promises-EventLoop#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
